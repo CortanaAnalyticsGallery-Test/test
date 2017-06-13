@@ -1,0 +1,8 @@
+# Conda environment specification. The dependencies defined in this file will be
+# automatically provisioned for each run unless environment management is disabled.
+
+# For Spark packages and configuration, see spark_dependencies.yml.
+
+name: project_environment
+dependencies:
+  - python=3.5.2
