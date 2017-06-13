@@ -38,6 +38,3 @@ plt.ylabel("target 2")
 plt.title("Multi-output Decision Tree Regression")
 plt.legend()
 plt.show()
-
-
-print "demo"
